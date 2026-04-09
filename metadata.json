@@ -1,0 +1,5 @@
+{
+  "name": "Archery Master",
+  "description": "A physics-based archery game with realistic wind, gravity, and challenging targets.",
+  "requestFramePermissions": []
+}
